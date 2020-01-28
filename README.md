@@ -1,4 +1,5 @@
 # helping-eye
+[[Try it out]](https://github.com/anikait627/helping-eye/) [[Source Code]](https://github.com/anikait627/helping-eye/) [[Devpost]](https://devpost.com/software/helpingeye) [[Slides]](presentation.pdf)
 Making the web easily acccessible through chat bots. Created in 24 hours at [tamuhack 2020](https://tamuhack.com/).
 
 ![helping-eye chrome extension](helpingeyes.gif "helping-eye chrome extension")
